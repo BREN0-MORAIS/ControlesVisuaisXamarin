@@ -5,13 +5,12 @@
 <ul>
   <li>:heavy_check_mark:<b>Linguagem de Marcação</b> 
       <ul>
-       <li>C#</li>
         <li>XAML</li>
       </ul>
   </li>
    <li>:heavy_check_mark:<b>Linguagem de Programação</b>
      <ul>
-       <li>C#</li>
+        <li>C#</li>
      </ul>
   </li>  
 </ul>
