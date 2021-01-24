@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ControlesVisuaisXamarin.Controles.PickerPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <!--Lista de Informação como se Fosse um Combobox ou DropDownLIst -->
+            <Picker Title="Lista"
+                    TextColor="Blue" FontSize="50"
+                    
+                    SelectedIndex="4"
+                    SelectedIndexChanged="ActionMudarIndex"
+                
+                    >
+                <!--Itens da Lista de Seleção-->
+                <Picker.Items>
+                    <x:String>Microsoft</x:String>
+                    <x:String>Apple</x:String>
+                    <x:String>Oracle</x:String>
+                    <x:String>Tesla</x:String>
+                    <x:String>SpaceX</x:String>
+                </Picker.Items>
+            </Picker>
+            <Picker BackgroundColor="Red"></Picker>
+            <Picker>
+                <Picker.BackgroundColor>
+                    Red
+                </Picker.BackgroundColor>
+            </Picker>
+
+            <Label x:Name="Resultado" FontSize="50" TextColor="Azure"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

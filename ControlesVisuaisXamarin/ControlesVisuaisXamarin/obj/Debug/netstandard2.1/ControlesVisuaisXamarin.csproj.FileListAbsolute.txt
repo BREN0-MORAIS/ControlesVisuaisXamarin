@@ -1,0 +1,16 @@
+C:\Users\55659\source\repos\ControlesVisuaisXamarin\ControlesVisuaisXamarin\ControlesVisuaisXamarin\obj\Debug\netstandard2.1\ControlesVisuaisXamarin.csprojAssemblyReference.cache
+C:\Users\55659\source\repos\ControlesVisuaisXamarin\ControlesVisuaisXamarin\ControlesVisuaisXamarin\obj\Debug\netstandard2.1\App.xaml.g.cs
+C:\Users\55659\source\repos\ControlesVisuaisXamarin\ControlesVisuaisXamarin\ControlesVisuaisXamarin\obj\Debug\netstandard2.1\Controles\ActivityIndicatorPage.xaml.g.cs
+C:\Users\55659\source\repos\ControlesVisuaisXamarin\ControlesVisuaisXamarin\ControlesVisuaisXamarin\obj\Debug\netstandard2.1\Controles\BoxPage.xaml.g.cs
+C:\Users\55659\source\repos\ControlesVisuaisXamarin\ControlesVisuaisXamarin\ControlesVisuaisXamarin\obj\Debug\netstandard2.1\Controles\ButtonPage.xaml.g.cs
+C:\Users\55659\source\repos\ControlesVisuaisXamarin\ControlesVisuaisXamarin\ControlesVisuaisXamarin\obj\Debug\netstandard2.1\Controles\DatePickerPage.xaml.g.cs
+C:\Users\55659\source\repos\ControlesVisuaisXamarin\ControlesVisuaisXamarin\ControlesVisuaisXamarin\obj\Debug\netstandard2.1\Controles\EntryEditorPage.xaml.g.cs
+C:\Users\55659\source\repos\ControlesVisuaisXamarin\ControlesVisuaisXamarin\ControlesVisuaisXamarin\obj\Debug\netstandard2.1\Controles\Label.xaml.g.cs
+C:\Users\55659\source\repos\ControlesVisuaisXamarin\ControlesVisuaisXamarin\ControlesVisuaisXamarin\obj\Debug\netstandard2.1\Controles\PickerPage.xaml.g.cs
+C:\Users\55659\source\repos\ControlesVisuaisXamarin\ControlesVisuaisXamarin\ControlesVisuaisXamarin\obj\Debug\netstandard2.1\Controles\ProgresseBarPage.xaml.g.cs
+C:\Users\55659\source\repos\ControlesVisuaisXamarin\ControlesVisuaisXamarin\ControlesVisuaisXamarin\obj\Debug\netstandard2.1\Controles\TimerPickerPage.xaml.g.cs
+C:\Users\55659\source\repos\ControlesVisuaisXamarin\ControlesVisuaisXamarin\ControlesVisuaisXamarin\obj\Debug\netstandard2.1\MainPage.xaml.g.cs
+C:\Users\55659\source\repos\ControlesVisuaisXamarin\ControlesVisuaisXamarin\ControlesVisuaisXamarin\obj\Debug\netstandard2.1\Menu\MaterPag.xaml.g.cs
+C:\Users\55659\source\repos\ControlesVisuaisXamarin\ControlesVisuaisXamarin\ControlesVisuaisXamarin\obj\Debug\netstandard2.1\ControlesVisuaisXamarin.AssemblyInfoInputs.cache
+C:\Users\55659\source\repos\ControlesVisuaisXamarin\ControlesVisuaisXamarin\ControlesVisuaisXamarin\obj\Debug\netstandard2.1\ControlesVisuaisXamarin.AssemblyInfo.cs
+C:\Users\55659\source\repos\ControlesVisuaisXamarin\ControlesVisuaisXamarin\ControlesVisuaisXamarin\obj\Debug\netstandard2.1\ControlesVisuaisXamarin.csproj.CoreCompileInputs.cache
